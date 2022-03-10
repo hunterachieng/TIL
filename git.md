@@ -6,5 +6,9 @@
 
 
 ##Pushing code to Bitbucket using git
+
+
 Configure SSH keys on git to allow for seamless pushing of the code
+
+
 Obtain origin link from the clone url
