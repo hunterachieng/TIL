@@ -29,3 +29,5 @@ Mutations - Used to change data or add new data into the server.
        }`
 
 Subscriptions - Used to send data to the client from the server when an even occurs. 
+
+*https://github.com/hunterachieng/graphql-practice*
