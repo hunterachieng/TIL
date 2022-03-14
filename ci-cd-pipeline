@@ -1,0 +1,8 @@
+# Continous Integration/ Continous Development
+
+It is used to improve software delivery i.e free of bugs in SRE.
+
+For bitbucket deployment, create a `bitbucket-pipeline.yml` file in your code and add build scripts according to the language used.
+
+`https://bitbucket.org/product/features/pipelines`
+
