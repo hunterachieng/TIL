@@ -17,6 +17,9 @@ function add () public{
 The above contract contains funciton add that does something. When we use inheritance, we will have to call the contract into a new contract.
 
 ```
+
+import './somefile.sol';
+
 contract BabyDoge is Doge{
 function subtract(){
 //Write something
@@ -25,5 +28,7 @@ function subtract(){
 ```
 
 
-The above contract explains how inheritance is carried out in solidity. This means that `BabyDoge contract` has inherited from `Doge` and when compiled, it will have
+The above contract explains how inheritance is carried out in solidity. Before inheritance happens, the contract to be inheritted must be imported into the new contract file. 
+
+This means that `BabyDoge contract` has inherited from `Doge` and when compiled, it will have
 access to all public functions in the  `Doge` contract. 
