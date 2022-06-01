@@ -1,3 +1,25 @@
+# TREE DATASTRUCTURES
+These comprise of nodes, edges, branches, and leaves
+
+Trees are non-linear data structures which are arranged heirachicaly such as a family tree or a company organizational structure.
+
+The top most element of a tree is the root/ parent.
+
+The data is stored inside nodes which are connected with edges.
+
+The bottom most part of a tree contains the leaves which are nodes without children.
+
+#### Height of a tree
+
+The height of a tree is calculated by the length of the longest path to a leaf.
+
+#### Depth of a tree
+
+Depth is calculated by finding the path to the root of the tree.
+
+
+
+
 # Binary Tree
 A binary tree is a tree dta stucture where a parent node can have at most 2 children.
 
